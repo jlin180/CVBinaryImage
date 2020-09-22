@@ -1,5 +1,5 @@
 # Computer Vision Binary Image Project Series
-A project series for my Computer Vision class focused on applying low-level to high-level computer vision concepts to binary images.
+A project series for my Computer Vision class focused on applying low-level to high-level computer vision concepts on binary images or grey-scale images.
 
 Each project folder has a different read me file that documents that project.
 
